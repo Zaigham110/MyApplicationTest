@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="condition1"><b>Rs.300</b> inspection charge.</string>
+    <string name="condition2">Final quote will be provided after inspection.</string>
+
+</resources>
